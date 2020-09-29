@@ -231,13 +231,6 @@ Acessar o seguinte endereços do seu navegador :
 http://localhost/bdr/tarefa4
 ```
 
-Outra opção é acessar o sistema já hospedado em:
-[http://blazecomex.johdoug.com/](http://blazecomex.johdoug.com/)
-
-
-
-
-
 
 
 
