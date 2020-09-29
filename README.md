@@ -7,19 +7,6 @@
 * MySQL
 
 
-### Instalação
-Clonar o repositório na raiz de um servidor apache.
-```
-git clone https://github.com/johnathansantos/bdr.git
-```
-
-Acessar o seguinte endereços do seu navegador:
-
-```
-http://localhost/bdr/
-```
-
-
 
 ## Tarefa 1
 
